@@ -291,7 +291,7 @@ exports.sendMail = functions.https.onRequest((req, res) => {
                         <tr>
                           <td align="center">
                             <a
-                              href="http://www.rndevelopment.com/"
+                              href="https://rn-development.herokuapp.com"
                               target="_blank"
                             >
                               <img
@@ -874,7 +874,7 @@ exports.sendMail = functions.https.onRequest((req, res) => {
                         <tr>
                           <td align="center">
                             <a
-                              href="http://www.arcsoftwaredevelopment.com/"
+                              href="https://rn-development.herokuapp.com"
                               target="_blank"
                             >
                               <img

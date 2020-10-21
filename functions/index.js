@@ -651,7 +651,7 @@ exports.sendMail = functions.https.onRequest((req, res) => {
     } else {
       mailOptions = {
         ...mailOptions,
-        to: "zachary@arcsoftwaredevelopment.com",
+        to: "RNdevelopment333@gmail.com",
         subject: "Message received!",
         html: `
           <p style="font-size: 16px;">From: ${name}</p>
